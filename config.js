@@ -13,5 +13,5 @@
  * This file is loaded before js/data.js in index.html.
  */
 window.DASH_CONFIG = {
-  API_URL: '' // e.g. 'https://script.google.com/macros/s/AKfycb.../exec'
+  API_URL: 'https://script.google.com/macros/s/AKfycbz7mnk53p5CDRRgsbh6ZpuMtInRuQl3MxktPqEW2qKpicsekQe41mC09qq2ln_2_dqP/exec'
 };
